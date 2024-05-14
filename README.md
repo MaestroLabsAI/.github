@@ -1,2 +1,1 @@
-# .github
-Maestro Labs AI
+# Maestro Labs AI
